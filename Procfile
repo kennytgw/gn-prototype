@@ -1,1 +1,1 @@
-web: gunicorn gn-prototype:app
+web: gunicorn
