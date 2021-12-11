@@ -2,6 +2,5 @@ site_name: GN-Kennytgw
 site_url: https://kennytgw.github.io/gn-prototype/
 nav:
     - Home: index.md
-    - About: about.md
     - Cells Tissues Genes: ctgtp_class1.md
 theme: readthedocs
